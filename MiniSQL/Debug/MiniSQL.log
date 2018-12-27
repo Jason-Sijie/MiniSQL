@@ -1,0 +1,12 @@
+﻿  API.cpp
+c:\users\jason yu\onedrive\minisql\minisql\api.cpp(121): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason yu\onedrive\minisql\minisql\api.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason yu\onedrive\minisql\minisql\api.cpp(198): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason yu\onedrive\minisql\minisql\api.cpp(215): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason yu\onedrive\minisql\minisql\api.cpp(220): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason yu\onedrive\minisql\minisql\api.cpp(237): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason yu\onedrive\minisql\minisql\api.cpp(257): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason yu\onedrive\minisql\minisql\api.cpp(286): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason yu\onedrive\minisql\minisql\api.cpp(289): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jason yu\onedrive\minisql\minisql\api.cpp(301): warning C4018: “<”: 有符号/无符号不匹配
+  MiniSQL.vcxproj -> C:\Users\Jason Yu\OneDrive\MiniSQL\Debug\MiniSQL.exe
